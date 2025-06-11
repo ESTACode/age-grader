@@ -93,3 +93,10 @@ box-sizing: border-box;
     color:#74b580;
     align-items: center;
 }
+.result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
